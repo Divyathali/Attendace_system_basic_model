@@ -1,6 +1,7 @@
 # Attendance_system
 
-install opencv and tkinter in anaconda and run attendance.py and enjoy.
-just make a folder named TrainingImageLabel.
+ 1. install opencv and tkinter in anaconda 
+ 2. Run attendance.py 
+ 3. just make a folder named TrainingImageLabel.
 
-# TrainingImageLable and .ipynb_checkpoints folder are need to be added.
+TrainingImageLable and .ipynb_checkpoints folder are need to be added.
